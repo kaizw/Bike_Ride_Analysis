@@ -1,2 +1,3 @@
 # Bike_Ride_Analysis
-Case Study of Google Data Analytics Course
+A Case Study of Google Data Analytics Course
+This is a capstone project of Google Data Analytics Course on Coursera. 
